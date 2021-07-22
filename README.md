@@ -1,5 +1,5 @@
 
-# Calendar Bakcend
+# Calendar Bakend
 Aplicación FRONTEND en node utlizando REACT.  
 
 Gestiónde un calendario donde pondemos añadir, modificar, eliminar citas.  
